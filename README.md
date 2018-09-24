@@ -1,4 +1,4 @@
-# IMPORTANCE
+# DEFINITION
 What is GitHub and what is the importance of GitHub?
 I'm sure that I will forget something, but Github is a version control system based on Git. 
 
